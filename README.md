@@ -13,6 +13,10 @@ PLEASE REMEMBER THAT I AM NOT OWNER OF ANY OF THIS TOKENS, I JUST CREATE THE TOK
 - Swapping accumolated taxes to ETH and then sending them to owner's wallet
 - Deployed at : https://etherscan.io/address/0x3713a47E9472F23d21c124edE952bA5c6A86F16B
 
+# Lunc
+- ERC20 token
+- native token(Lunc) reflections
+
 # NFT(ERC721) Contract:
 - 5% Royalties Fees
 - Pre-Reveal feature, you can set your URIs after a period of time
